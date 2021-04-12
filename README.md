@@ -1,9 +1,13 @@
 ### Hello 👋
 
-My name is Hannes Brinklert and I am a M.Sc student in Computer Science at Lund University. Currently I am in my second year.
+My name is Hannes Brinklert and I am a M.Sc student in Computer Science at Lund University. Currently I am studying my second year.
 
 #### Knowledge
-
+* Java
+* Scala
+* HTML
+* CSS
+* JavaScript
  
 #### I am currently learning
  Markup : - React
