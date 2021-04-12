@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello 👋
+
+My name is Hannes Brinklert and I am a M.Sc student in Computer Science at Lund University. Currently I am in my second year.
 
 <!--
 **hannesbrinklert/hannesbrinklert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
