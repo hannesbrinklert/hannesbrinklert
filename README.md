@@ -3,11 +3,10 @@
 My name is Hannes Brinklert and I am a M.Sc student in Computer Science at Lund University. Currently I am in my second year.
 
 #### Knowledge
-Markup : * Java
-         * Scala
-         * HTML5
-         * CSS3
-         * JavaScript
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
  
 #### I am currently learning
 Markup : * React
