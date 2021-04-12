@@ -10,7 +10,7 @@ My name is Hannes Brinklert and I am a M.Sc student in Computer Science at Lund 
 - [<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>](https://github.com/hannesbrinklert)
 - [<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/hannesbrinklert)
  
-### :open_book: I am currently learning
+### :book: I am currently learning
 - [<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>](https://github.com/hannesbrinklert)
 - [<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>](https://github.com/hannesbrinklert)
   
