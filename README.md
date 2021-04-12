@@ -14,3 +14,6 @@ My name is Hannes Brinklert and I am a M.Sc student in Computer Science at Lund 
 * React
 * TypeScript
   
+### Feel free to contact me below 
+* :link: [LinkedIn](http://linkedin.com/in/hannesbrinklert)
+* :email: [Email](hannes@brinklert.se)
