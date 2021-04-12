@@ -16,4 +16,4 @@ My name is Hannes Brinklert and I am a M.Sc student in Computer Science at Lund 
   
 ### :telephone_receiver: Feel free to contact me below 
 - [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](http://linkedin.com/in/hannesbrinklert)
-- [####:e-mail:](mailto:hannes@brinklert.se)
+- [:e-mail:](mailto:hannes@brinklert.se){width=20px}
