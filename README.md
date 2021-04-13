@@ -12,7 +12,3 @@ My name is Hannes Brinklert and I am a M.Sc student in Computer Science at Lund 
 ### :book: I am currently learning
 [<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>](https://github.com/hannesbrinklert)
 [<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>](https://github.com/hannesbrinklert)
- 
-### :telephone_receiver: Feel free to contact me below 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](http://linkedin.com/in/hannesbrinklert)
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:hannes@brinklert.se)
